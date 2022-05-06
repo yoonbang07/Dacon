@@ -5,4 +5,4 @@
 |----|----|
 |잡케어 추천 알고리즘 경진대회|14/728|
 |한국어 문장 관계분류 경진대회|5/250 (수상)|
-|Computer vision 이상치 탐지 알고리즘 경진대회|진행중|
+|Computer vision Anomaly detection|진행중|
